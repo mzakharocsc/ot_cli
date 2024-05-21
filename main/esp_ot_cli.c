@@ -38,7 +38,7 @@
 #include "openthread/instance.h"
 #include "openthread/logging.h"
 #include "openthread/tasklet.h"
-//#include "protocol_examples_common.h"
+#include "protocol_examples_common.h"
 #include "esp_now.h"
 
 #include "esp_wifi.h"
