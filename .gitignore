@@ -1,0 +1,6 @@
+/build
+/sdkconfig.ci.*
+/managed_components
+*.lock
+/sdkconfig
+/sdkconfig.old
